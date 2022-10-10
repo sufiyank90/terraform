@@ -1,5 +1,0 @@
-/.terraform
-.*.swp
-/terraform.plan
-/terraform.tfstate
-/terraform.tfstate.*
